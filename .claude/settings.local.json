@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"d:\\\\go_demo\\\\demo1\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Bash(mv \"d:/go_demo/demo1/demo2\" \"d:/go_demo/demo1/go_可变参数\")",
+      "Bash(mv \"d:/go_demo/demo1/demo5\" \"d:/go_demo/demo1/go_map切片\")",
+      "Bash(mv \"d:/go_demo/demo1/demo6\" \"d:/go_demo/demo1/go_结构体\")"
+    ]
+  }
+}
